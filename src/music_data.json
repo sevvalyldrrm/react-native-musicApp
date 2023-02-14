@@ -1,0 +1,137 @@
+[
+    {
+      "id": "0",
+      "title": "Endless",
+      "artist": "Thurisaz",
+      "album": "Scent Of A Dream",
+      "year": 2004,
+      "isSoldOut": true,
+      "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/ed/1d/d0/ed1dd00b-228f-7c1f-1fb6-72b2bdf3350f/859714979832_cover.jpg/400x400bb.jpg"
+    },
+    {
+      "id": "1",
+      "title": "Lotus",
+      "artist": "Soen",
+      "album": "Lotus",
+      "year": 2019,
+      "isSoldOut": true,
+      "imageUrl": "https://metalperver.com/wp-content/uploads/2019/02/a0389028744_16.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Time Machine",
+      "artist": "Logic",
+      "album": "Supermarket",
+      "year": 2019,
+      "isSoldOut": false,
+      "imageUrl": "https://ukutabs.com/wp-content/uploads/2019/05/Supermarket-Soundtrack-300x300.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Angelica",
+      "artist": "Anathema",
+      "album": "Eternity",
+      "year": 1996,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c62df3fa967ac4382b54147"
+    },
+    {
+      "id": "4",
+      "title": "Living in the Shadows",
+      "artist": "Matthew Perryman Jones",
+      "album": "Single",
+      "year": 2016,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313f1a15c18f40a991691f3d6"
+    },
+    {
+      "id": "5",
+      "title": "Indigo Night",
+      "artist": "Tamino",
+      "album": "Amir",
+      "year": 2018,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/f17ddfa246db1b8e1f681f658be732b0779d7ea2"
+    },
+    {
+      "id": "6",
+      "title": "All Along the Watchtower",
+      "artist": "Jimi Hendrix",
+      "album": "Electric Ladyland",
+      "year": 1968,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292"
+    },
+    {
+      "id": "7",
+      "title": "Creep",
+      "artist": "RadioHead",
+      "album": "Pablo Honey",
+      "year": 1993,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95"
+    },
+    {
+      "id": "8",
+      "title": "God Was Never On Your Side",
+      "artist": "Motörhead",
+      "album": "Kiss of Death",
+      "year": 2001,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5941e5e616db0fc4dcd089"
+    },
+    {
+      "id": "9",
+      "title": "Snuff",
+      "artist": "Slipknot",
+      "album": "All Hope Is Gone",
+      "year": 2008,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273457163bec7e8e4decf8c6375"
+    },
+    {
+      "id": "10",
+      "title": "That's My Heart",
+      "artist": "Lindemann",
+      "album": "Skill in Pills",
+      "year": 2015,
+      "isSoldOut": false,
+      "imageUrl": "https://i.ytimg.com/vi/_ONysStrViM/maxresdefault.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Black",
+      "artist": "Kari Kimmel",
+      "album": "Black",
+      "year": 2015,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4e0a2e01d6b19a9384cb6f1"
+    },
+    {
+      "id": "12",
+      "title": "Brother",
+      "artist": "Orphaned Land",
+      "album": "All Is One",
+      "year": 2013,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc44553f1ae3c1d22925e372"
+    },
+    {
+      "id": "13",
+      "title": "The City Holds My Heart",
+      "artist": "Ghostly Kisses",
+      "album": "EP",
+      "year": 2018,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdf4e132227fa498e1688af9"
+    },
+    {
+      "id": "14",
+      "title": "Hope Leaves",
+      "artist": "Opeth",
+      "album": "Damnation",
+      "year": 2003,
+      "isSoldOut": false,
+      "imageUrl": "https://i.ytimg.com/vi/cGPRoszjnWA/maxresdefault.jpg"
+    }
+  ]
