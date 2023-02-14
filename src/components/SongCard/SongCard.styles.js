@@ -2,7 +2,7 @@ import { StyleSheet } from 'react-native'
 
 export const styles= StyleSheet.create({
     container : {
-        backgroundColor: '#E8E2E2',
+        backgroundColor: '#F7F5F2',
         padding: 10,
         flexDirection: 'row'
     },
@@ -33,13 +33,23 @@ export const styles= StyleSheet.create({
         fontSize : 12,
     },
     info_container:{
-        flexDirection: 'row'
+        flexDirection: 'row',
+        flex : 1,
+        alignItems : 'center'
     },
     soldout_container: {
-        
+        borderWidth : 1,
+        borderColor: 'red',
+        padding : 5,
+        borderRadius: 5,
     },
 
     soldout_title: {
+        color: 'red',
+        fontSize : 12
+    },
 
+    body_container:{
+        flexDirection : 'row'
     }
 })
