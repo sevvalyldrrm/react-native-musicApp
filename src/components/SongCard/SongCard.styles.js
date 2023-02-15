@@ -2,7 +2,7 @@ import { StyleSheet } from 'react-native'
 
 export const styles= StyleSheet.create({
     container : {
-        backgroundColor: '#F7F5F2',
+        flex : 1,
         padding: 10,
         flexDirection: 'row'
     },
@@ -20,17 +20,20 @@ export const styles= StyleSheet.create({
 
     title:{
         color: 'black',
-        fontSize : 25
+        fontSize : 25,
+
     },
 
     artist:{
         fontWeight : 'bold',
+        
     },
     
     year:{
         color: 'grey',
         marginLeft: 10,
         fontSize : 12,
+        flex : 1,
     },
     info_container:{
         flexDirection: 'row',
@@ -42,6 +45,7 @@ export const styles= StyleSheet.create({
         borderColor: 'red',
         padding : 5,
         borderRadius: 5,
+        
     },
 
     soldout_title: {
